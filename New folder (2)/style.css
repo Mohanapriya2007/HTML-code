@@ -1,0 +1,35 @@
+*{
+    font-family: Aria;
+    background-color: deepskyblue;
+} 
+h1{
+    color: blue;
+}
+h2{
+    color: brown;   
+    
+    color: blue;
+    text-decoration:underline ;
+}
+}
+    p{
+        color: darkgoldenrod;
+    }
+
+h3{
+    color: darkred;  
+}
+    p{
+         
+        font-size: 18px;
+    }
+h4{
+    color: blanchedalmond;
+    font-size: 18px;
+} 
+h4{
+    color: bisque; 
+}
+    p{
+    background-color: chocolate;
+}
