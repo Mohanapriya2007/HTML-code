@@ -1,0 +1,19 @@
+h1{
+   color: aqua;
+    color: rgb(red, green, blue)
+}
+p{
+    color: brown;
+} 
+h2{
+color: cadetblue;
+color: rgba(250,0,0,0.2);
+}
+h3{
+    color: deeppink
+    color:hsl(120, 80, 50);
+}
+h4{
+    color: goldenrod; 
+    color: hsla(45, 65, 70, 55);
+}
