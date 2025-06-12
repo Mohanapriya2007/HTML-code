@@ -1,0 +1,30 @@
+body{
+background-color: bisque;
+    color: darkturquoise; 
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} 
+h1{
+    color: indianred;
+    text-decoration: underline;
+} 
+p{
+    color: brown;
+    text-align: center; 
+    line-height: 1.5em; 
+  
+  word-spacing: 5;
+  vertical-align: bottom;
+} 
+h2{
+    color: chartreuse; 
+    font: 200; 
+text-decoration: underline;
+}
+p{
+    color: darkblue; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+h3{
+    color: darkgoldenrod; 
+    text-decoration: underline;
+}
