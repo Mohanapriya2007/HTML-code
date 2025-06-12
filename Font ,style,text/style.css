@@ -1,0 +1,28 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+h1{
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: medium; 
+    font-weight: 400; 
+    color: darkkhaki;
+} 
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-family: 12px; 
+    font-weight: normal;
+    font-style: oblique;
+
+} 
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: large;
+    color: darkgoldenrod;
+} 
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 34px; 
+    font-weight: 500;
+    font-size: medium;
+
+}
